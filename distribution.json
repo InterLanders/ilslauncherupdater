@@ -16,7 +16,7 @@
             "description": "New 1.12.2 production server.",
             "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/img/pdp-configuration/Minecraft-Java_Keyart.jpg",
             "version": "4.6.5",
-            "address": "mc.interlanders.com.br:10029",
+            "address": "ca-arm-a2.phosting.com.br:10029",
             "minecraftVersion": "1.12.2",
             "discord": {
                 "shortId": "1.12.2 Production Server",
