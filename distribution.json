@@ -1,9 +1,9 @@
 {
     "version": "1.0.0",
     "discord": {
-        "clientId": "385581240906022916",
-        "smallImageText": "WesterosCraft",
-        "smallImageKey": "seal-circle"
+        "clientId": "920826040559992833",
+        "smallImageText": "logoilv2",
+        "smallImageKey": "assinateil1"
     },
     "java": {
         "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
